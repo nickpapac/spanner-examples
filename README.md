@@ -5,9 +5,8 @@
 * [How It Works](#how-it-works)
 * [Creating An Account](#creating-an-account)
 * [Integrations](#integrations)
-  * [Quick Start Guide](#quick-start-guide-integrations)
-      * [GitHub ](#github-through-spanner-ci-official-github-app)
-      * [Gitlab ](#gitlab-through-webhook)
+     * [GitHub ](#github-through-spanner-ci-official-github-app)
+     * [Gitlab ](#gitlab-through-webhook)
   * [Spanner CI Permission Scopes](#spanner-ci-permission-scopes)
 * [Projects](#projects)
 * [Jobs](#jobs)
@@ -45,9 +44,6 @@ If you already have a GitHub account click the `SIGN UP WITH GITHUB` button. Thi
 [Spanner CI](https://spannerci.com) integrations gives you and your organization full visibility into your GitHub or Gitlab projects right in Spanner CI Platform, where you can create projects based on your code repositories
 
 This readme contains everything that is needed to get started using Spanner CI integrations. It's highly recommended to use it as a starting point to understand how Spanner CI can be easily integrated with your own Github or Gitlab [ private | public ] repository. More details about this can be found below. Follow the Quick Start Guide to start using Spanner CI Integrations.
-
-## Quick Start Guide (Integrations)
-
 
 #### GitHub (through Spanner CI Official Github App)
 
