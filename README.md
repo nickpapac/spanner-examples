@@ -139,7 +139,7 @@ Each time Spanner CI is triggered from a source code commit or pull request a ne
 
 New Jobs can also be created manually. Each Job belongs to a specific Project. A list with all the Project Jobs can be found under the Project page (accessible by clicking a Project name in the [Projects](http://console.spannerci.com/app/) page). From there, it's possible to get various information about each Job, download any artifacts or even watch any Job in runtime or at a later time.
 
-Also note, that because of the Spanner integration with GitHub, it's possible to watch the Job result directly from GitHub, after creating a new Pull Request.
+Also note, that because of the Spanner integration with GitHub & Gitlab, it's possible to watch the Job result directly from GitHub or Gitlab, after creating a new Pull Request.
 
 ## Environment Variables
 Spanner supports the definition of environment variables for each Project. These are variables that will be imported in the Linux based virtual environment that runs a [Spanner Job](#jobs). They are defined from `Environment Variables` section in the Project Settings page. They can be referenced in the [.spannerci.yml](#configuration-with-spannerciyml) file using the `$` prefix, e.g `$MY_VAR`, and we use them in two diferrent ways:
