@@ -21,7 +21,7 @@
 ## Introduction
 [Spanner CI](https://spannerci.com) is a Continuous Integration Platform for IoT and Embedded Devices. It can be used for automated code quality checks, automated firmware builds and automated functional tests in real hardware that run with every new version of your firmware.
 
-This repository contains everything that is needed to get started with Spanner CI. It's highly recommended to make a fork of this repository and use it as a starting point to understand how Spanner CI can be easily integrated with your own github or gitlab repository. More details about this can be found in the [Quick Start Guide](#quick-start-guide-(Integrations)) section.
+This repository contains everything that is needed to get started with Spanner CI. It's highly recommended to make a fork of this repository and use it as a starting point to understand how Spanner CI can be easily integrated with your own github or gitlab repository. More details about this can be found in the [Quick Start Guide](#integrations) section.
 
 In the following sections you'll find detailed information about Spanner CI.
 
