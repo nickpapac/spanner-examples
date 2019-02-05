@@ -7,7 +7,7 @@
 * [Integrations](#integrations)
      * [GitHub ](#github-through-spanner-ci-official-github-app)
      * [Gitlab ](#gitlab-through-webhook)
-  * [Spanner CI Permission Scopes](#spanner-ci-permission-scopes)
+* [Spanner CI Permission Scopes](#spanner-ci-permission-scopes)
 * [Projects](#projects)
 * [Jobs](#jobs)
 * [Environment Variables](#environment-variables)
